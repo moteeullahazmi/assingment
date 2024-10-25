@@ -1,4 +1,4 @@
-// let counter = 0;
+
 
 // const updateClock = () => {
 //     const now = new Date();
@@ -18,7 +18,7 @@
 
 // setInterval(updateClock, 1000);
 
-let counter = 0;
+
 
 const updateClock = () => {
     const now = new Date();
